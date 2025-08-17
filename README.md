@@ -23,7 +23,7 @@ This project demonstrates the integration of browser extension development, natu
 ## 👥 Team Members
 This project was developed as part of a group effort:  
 
-- Nidhi Reddy Janga(https://github.com/nidhireddyjanga)  
-- Tanmay Rahul Kalanke(https://github.com/USERNAME)  
-- Shreya Rajeev(https://github.com/USERNAME)  
-- Nimai R Shendge(https://github.com/USERNAME)  
+- Nidhi Reddy Janga(https://github.com/nidhireddyjanga)
+- Tanmay Rahul Kalanke  
+- Shreya Rajeev(https://github.com/shreya05123)  
+- Nimai R Shendge 
