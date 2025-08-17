@@ -2,7 +2,7 @@
 
 **📌 Overview**
 
-The Video Transdcript Summarizer is a Chrome extension that automatically fetches transcripts from YouTube videos and generates a concise summary. Users can also download the summary as a PDF for offline use.
+The Video Transcript Summarizer is a Chrome extension that automatically fetches transcripts from YouTube videos and generates a concise summary. Users can also download the summary as a PDF for offline use.
 This project demonstrates the integration of browser extension development, natural language processing for summarization, and a simple user-friendly UI.
 
 **🚀 Features**
@@ -19,3 +19,11 @@ This project demonstrates the integration of browser extension development, natu
 - Transcript Fetching (YouTube captions API)
 - Summarization Logic (JS-based)
 - PDF Export (jsPDF library)
+
+## 👥 Team Members
+This project was developed as part of a group effort:  
+
+- Nidhi Reddy Janga(https://github.com/nidhireddyjanga)  
+- Tanmay Rahul Kalanke(https://github.com/USERNAME)  
+- Shreya Rajeev(https://github.com/USERNAME)  
+- Nimai R Shendge(https://github.com/USERNAME)  
